@@ -9,7 +9,7 @@
 [![Java](https://img.shields.io/badge/Java-Theory%20%26%20Practice-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)](#certificates)
 [![English](https://img.shields.io/badge/English-C1-00AEEF?style=for-the-badge)](#certificates)
 
-This repository contains certificates earned by **Konstantin Aydarov** in software testing, Java, Git, PostgreSQL, and English.
+This repository contains my certificates in software testing, Java, Git, PostgreSQL, and English.
 
 </div>
 
